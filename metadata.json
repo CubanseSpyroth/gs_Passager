@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Registro de Pasajeros",
+  "description": "Una aplicación web offline para registrar y gestionar registros de pasajeros. Todos los datos se almacenan localmente en su navegador.",
+  "requestFramePermissions": []
+}
